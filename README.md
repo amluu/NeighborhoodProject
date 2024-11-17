@@ -7,6 +7,4 @@
 
 # Canvas group number: 9
 
-# Description and Links to datasets used:
-
 # This github repository is a dataset analysis of which neighborhood in Pittsburgh is the healthiest to live in. 
